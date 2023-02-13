@@ -1,0 +1,28 @@
+/* Plus Green: #198B26
+Minus Red: #B50016 */
+body{
+    font-family: 'Saira Condensed', sans-serif;
+    margin: 10em auto;
+    text-align: center;
+}
+.welcome{
+    font-weight: bold;
+}
+
+.welcome, .goodPlace{
+    color: #198B26;
+    font-size: 4.5rem;
+}
+.badPlace{
+    color: #B50016;
+    font-size: 4.5rem;
+}
+
+.mediumPlace{
+    color: #E4D00A;
+    font-size: 4.5rem;
+}
+
+#score{
+    margin-top: 3em;
+}
